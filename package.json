@@ -1,0 +1,15 @@
+{
+  "name": "ProShop",
+  "version": "1.0.0",
+  "description": "MERN shopping card app",
+  "main": "server.js",
+  "scripts": {
+    "start": "node backend/server"
+  }, 
+  "author": "Mitho NK",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.18.1"
+  }
+  
+}
